@@ -6,7 +6,7 @@ TOOLS: TKINTER(PYTHON) AND OTHER PYTHON LIBRARIES AND CERTAIN APIs
 
 LANGUAGE: PYTHON
 
-# TRACKWORLD APP (Tracking certain real-world phenomena around the world)
+# ABSTRACT
 
 In this period of continuous developments around the world, sometimes it becomes difficult to keep track of important things. So, in order to keep track of important international news around us, keeping track of the current price of crypto coins and others we propose to build an app upon it in Python. The main features of the app are-
 
