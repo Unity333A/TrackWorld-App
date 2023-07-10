@@ -37,3 +37,15 @@ This app is built in Python using a special GUI app development framework called
 (A)Important news around the world
 
 For the development of this feature, we use the Python package request along with a NEWS API. After generating the API key we extract the news with the help of a request from the API server and display it in the app.
+
+(B)Current price of the crypto coins
+
+In this case, we use the request module to parse the information provided by the crypto coin API server and display the information in the app. We also use a Python package called datetime to track the current time of the crypto coin prices. Here, we use a method of canvas called after to update the price of the bitcoin at the interval of every 1000ms.
+
+(C)Sending bulk SMS to individuals
+
+At first, we need to create an API on a SMS server called Fast2SMS and then by requesting the server with the recipient’s phone number and the requisite message we can send the respective message to the individual. In this case, we are sending the data to access the server in the form of a dictionary which is consisting among other things the recipient’s phone number and the message.
+
+(D)Tracking the current location of the phone
+
+In this case, we use a Python package called geocoder to get the location of the phone by using the IP address of the phone.
