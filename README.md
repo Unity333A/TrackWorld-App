@@ -57,5 +57,4 @@ At first, we need to create an API on a SMS server called Fast2SMS and then by r
 (D)Tracking the current location of the phone
 
 In this case, we use a Python package called geocoder to get the location of the phone by using the IP address of the phone.
-
 ![image](https://github.com/Unity333A/TrackWorld-App/assets/107807858/fc322e31-5460-419a-969c-661e56ba7e28)
