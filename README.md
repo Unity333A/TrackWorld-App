@@ -38,7 +38,7 @@ This app is built in Python using a special GUI app development framework called
 
 For the development of this feature, we use the Python package request along with a NEWS API. After generating the API key we extract the news with the help of a request from the API server and display it in the app.
 
-[image](https://github.com/Unity333A/TrackWorld-App/assets/107807858/19674944-dd65-484e-8f25-817ea96ad196)
+![image](https://github.com/Unity333A/TrackWorld-App/assets/107807858/19674944-dd65-484e-8f25-817ea96ad196)
 
 
 (B)Current price of the crypto coins
